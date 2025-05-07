@@ -1,0 +1,17 @@
+I-get-@it git hub ssh
+SHA256:RcXeBuGuUHKODC7ThHLpHqmVcgNcwI/ZBATTk6tUWO0 brightnghanzha@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|o=*=o     .oo.   |
+| +=o.+   . .o    |
+|  =O= o . +..o   |
+| .+=oE o B .. o  |
+|... @ o S . ..   |
+|.  * =   . .     |
+|  . .     .      |
+|                 |
+|                 |
++----[SHA256]-----+
+
+at ~/.ssh/id_ed25519.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHuIDoB8ZhKm4TFEoKPHKrGqnw2qhS6A9bGmsiq2dPCL brightnghanzha@gmail.com
